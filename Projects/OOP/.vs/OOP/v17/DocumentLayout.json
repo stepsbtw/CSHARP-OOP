@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMACAO\\Estudos\\DOTNET\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019D4098-01D8-44E1-B674-A10234424CA3}|Objects\\Objects.csproj|d:\\programacao\\estudos\\dotnet\\oop\\objects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019D4098-01D8-44E1-B674-A10234424CA3}|Objects\\Objects.csproj|solutionrelative:objects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\PROGRAMACAO\\Estudos\\DOTNET\\OOP\\Objects\\Person.cs",
+              "RelativeDocumentMoniker": "Objects\\Person.cs",
+              "ToolTip": "D:\\PROGRAMACAO\\Estudos\\DOTNET\\OOP\\Objects\\Person.cs",
+              "RelativeToolTip": "Objects\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:22:11.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

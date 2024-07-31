@@ -1,0 +1,4 @@
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache

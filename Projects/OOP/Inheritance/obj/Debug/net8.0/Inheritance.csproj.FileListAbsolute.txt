@@ -1,0 +1,14 @@
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\bin\Debug\net8.0\Inheritance.exe
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\bin\Debug\net8.0\Inheritance.dll
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\obj\Debug\net8.0\Inheritance.dll
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+D:\PROGRAMACAO\Estudos\DOTNET\OOP\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
