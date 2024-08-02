@@ -32,6 +32,10 @@ namespace Inheritance
         {
             Console.WriteLine("meow meow");
         }
+        public void LandingOnFeet()
+        {
+            Console.WriteLine("cats always lands on their feet.");
+        }
     }
 
     class Program
@@ -48,6 +52,11 @@ namespace Inheritance
             myDog.Name = "rex";
 
             Animal myCat = new Cat { Name = "bixo", Age = 3 };
+            // in this case for ex. mycat doesnt have the landingonfeet method.
+            // cause its type is ANIMAL.
+
+            Cat c1 = new Cat { Name = "Felix", Age = 1 };
+            c1.LandingOnFeet();
 
             myDog.MakeSound();
             myCat.MakeSound();

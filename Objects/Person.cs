@@ -24,7 +24,7 @@ namespace Objects
 
     class Program
     {
-        static void Main()
+        static void Main2()
         {
             Person p1 = new Person();
             p1.setName("Caio");

@@ -56,12 +56,12 @@ namespace Encapsulation
     
     class Program
     {
-        static void Main()
+        static void Main2()
         {
             BankAccount acc1 = new BankAccount(123456, 1000.50f);
             acc1.Deposit(500);
             acc1.Withdraw(200);
-            Console.WriteLine($"Current balance: {acc1.GetBalance}");
+            Console.WriteLine($"Current balance: {acc1.GetBalance()}");
         }
     }
 }
